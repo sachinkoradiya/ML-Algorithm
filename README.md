@@ -11,11 +11,11 @@
 
 
 # Using Liberary
--->Pandas
--->Numpy
--->Matplotlib
--->Seaborn
--->SkLearn
+-->Pandas                                                                                                                                
+-->Numpy                                                                                                                               
+-->Matplotlib                                                                                                                           
+-->Seaborn                                                                                                                              
+-->SkLearn                                                                                                                                
 
 # Dataset
  Dataset is available on kaggle and also in repository
